@@ -10,4 +10,4 @@ the model architecture is mostly inspired by Implmentation of 2D CoAtNet by http
 gihub link: https://github.com/KKKSQJ/DeepLearning/blob/master/classification/coatNet/models/networks.py
 
 I converted the 2D CoAtNet in to 3D version,and i tested the model on 3D medical image classificaiton task.
-It works.
+It works even on small dataset, around 400 3D images on training set. and result is compareble with 3D EfficientNet
